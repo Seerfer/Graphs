@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/Graphs.dir/main.cpp.o CMakeFiles/Graphs.dir/graph_list.cpp.o CMakeFiles/Graphs.dir/graph_matrix.cpp.o CMakeFiles/Graphs.dir/bellmanford.cpp.o CMakeFiles/Graphs.dir/vector.cpp.o  -o Graphs 
